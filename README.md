@@ -102,7 +102,3 @@ The site will be available at: **https://kunal-arora-1411.github.io/portfolio/**
 5. Open a Pull Request
 
 ---
-
-## ⚖️ License
-
-This project is open-source and available under the [MIT License](LICENSE).
