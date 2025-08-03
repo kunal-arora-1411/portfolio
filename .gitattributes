@@ -1,0 +1,16 @@
+# enforce LF in the repo and on check-out for these extensions
+*.js     text eol=lf
+*.jsx    text eol=lf
+*.ts     text eol=lf
+*.tsx    text eol=lf
+*.json   text eol=lf
+*.css    text eol=lf
+*.html   text eol=lf
+
+# keep binary files alone
+*.png    binary
+*.jpg    binary
+*.woff   binary
+*.woff2  binary
+
+* text=auto
